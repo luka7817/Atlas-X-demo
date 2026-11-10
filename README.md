@@ -1,13 +1,13 @@
-# Atlas-x demo 🌌
+# Atlas demo 🌌
 
-Plateforme interactive de simulation économique et financière en 3D.
+An interactive 3D platform for economic and financial simulations.
 
-- Globe terrestre interactif
-- Salle de conseil avec représentants animés
-- Stade de football explorable
+- Interactive Earth globe
+- Executive boardroom with animated representatives
+- Explorable football stadium
 
-👉 **[Cliquez ici pour essayer ATLAS X](https://atlas-x-intelligence-demo.snappy-ant-9541.chatgpt.site)**
+👉 **[Click here to try ATLAS X](https://atlas-x-intelligence-demo.snappy-ant-9541.chatgpt.site)**
 
-Utilisez la souris pour faire pivoter les scènes, zoomez et cliquez sur les objets pour explorer les simulations.
+Use your mouse to rotate the scenes, zoom in and out, and click on objects to explore the simulations.
 
-Démonstration gratuite utilisant des données synthétiques et des règles de décision.
+Free demo using synthetic data and rule-based decision-making.
