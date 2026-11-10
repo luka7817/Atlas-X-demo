@@ -1,10 +1,10 @@
-# ATLAS X 🌌
+# Atlas-x demo 🌌
 
 Plateforme interactive de simulation économique et financière en 3D.
 
-🌍 Globe terrestre interactif
-🏢 Salle de conseil avec représentants animés
-⚽ Stade de football explorable
+- Globe terrestre interactif
+- Salle de conseil avec représentants animés
+- Stade de football explorable
 
 👉 **[Cliquez ici pour essayer ATLAS X](https://atlas-x-intelligence-demo.snappy-ant-9541.chatgpt.site)**
 
